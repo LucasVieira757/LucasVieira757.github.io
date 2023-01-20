@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Petshop</h1>
+<h1 align="center">Portifolio</h1>
 
 ## 🚀 Descrição do Projeto
-<p align="center">Projeto realizado em sala de aula com o intuito de colocar em pratica os conhecimentos adquiridos em sala de aula.</p>
+<p align="center">Projeto realizado em sala de aula com o intuito de colocar em pratica os conhecimentos adquiridos</p>
 
 Informações no Projeto
 <!--ts-->
