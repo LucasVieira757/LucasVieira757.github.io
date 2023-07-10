@@ -8,7 +8,7 @@
 Informações no Projeto
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Serviços](#Serviços)
+   * [Serviços](#Portifolio)
    * [Contato ](#Contato)
    <!--te-->
    
@@ -19,9 +19,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Html](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [JavaScript](https://www.w3schools.com/js/default.asp)
-
-
- ### Figma do projeto 
 
  
  ### Pagina principal GitHub
